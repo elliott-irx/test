@@ -6,6 +6,10 @@
     "value": 80,
     "unit": "kg"
   },
+  "serumCreatinine": {
+    "value": 0.9,
+    "unit": "mg/dL"
+  },
   "patientConditions": {
     "diabetes": true,
     "hypertension": true,
