@@ -10,16 +10,15 @@
     "diabetes": true,
     "hypertension": true,
     "cirrhosis": true,
-	"dialysis": false
-    "heartDisease": false
-	"stroke": true
-	"majorBleedingEvent": true
-	"Plavix": true
-	"alcohol": {
-		"value": 20,
-		"unit": "drinks/week"
-	},
-	"labileINR": false
-	
+    "dialysis": false,
+    "heartDisease": false,
+    "stroke": true,
+    "majorBleedingEvent": true,
+    "Plavix": true,
+    "alcohol": {
+      "value": 20,
+      "unit": "drinks/week"
+    },
+    "labileINR": false
   }
 }
