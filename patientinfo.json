@@ -19,6 +19,7 @@
       "value": 20,
       "unit": "drinks/week"
     },
-    "labileINR": false
+    "labileINR": false,
+    "atrialFibrillation": true
   }
 }
