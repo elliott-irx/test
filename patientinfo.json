@@ -1,6 +1,7 @@
 {
   "patientId": "12345",
   "name": "Jane Doe",
+  "sex": "female",
   "age": 35,
   "weight": {
     "value": 80,
